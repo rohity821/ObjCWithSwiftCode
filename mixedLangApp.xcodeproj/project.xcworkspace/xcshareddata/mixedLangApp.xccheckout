@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D8864BBE-F28A-4574-9C4B-089F986CAFD4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>mixedLangApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CC83E1E9C5C4314B8AA1DBEA8E15574086E223F3</key>
+		<string>https://github.com/rohity821/ObjCWithSwiftCode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>mixedLangApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CC83E1E9C5C4314B8AA1DBEA8E15574086E223F3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rohity821/ObjCWithSwiftCode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CC83E1E9C5C4314B8AA1DBEA8E15574086E223F3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CC83E1E9C5C4314B8AA1DBEA8E15574086E223F3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ObjCWithSwiftCode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
