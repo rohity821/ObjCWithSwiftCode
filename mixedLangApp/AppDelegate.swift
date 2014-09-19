@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  mixedLangApp
 //
-//  Created by Ongraph on 10/09/14.
-//  Copyright (c) 2014 Ongraph. All rights reserved.
+//  Created by Rohit Yadav on 10/09/14.
+//  Copyright (c) 2014 Rohit Yadav. All rights reserved.
 //
 
 import UIKit

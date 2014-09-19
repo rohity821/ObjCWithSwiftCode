@@ -2,9 +2,7 @@
 //  ColorPickerImageView.m
 //  ColorPicker
 //
-//  Created by markj on 3/6/09.
-//  Copyright 2009 Mark Johnson. All rights reserved.
-//
+
 
 #import "ColorPickerImageView.h"
 #import <CoreGraphics/CoreGraphics.h>
