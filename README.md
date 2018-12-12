@@ -1,7 +1,5 @@
 ObjCWithSwiftCode
 =================
 
-It tell how to use and existing objective c file with Swift in iOS development
-
-This is a guide code about how to use Your Objective-C existing code with Swift language or you can use any other existing library with Swift.
+This is a sample app to demonstrate how to use bridging header for using Objective-C code files in your new Swift Project. This may be helpful if you want to add some awesome piece of code written in objective-c into your swift Project.
  
